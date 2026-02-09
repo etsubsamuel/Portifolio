@@ -1,30 +1,32 @@
-# Portifolio
-Professional portfolio and project case studies
-# Hi, I'm Etsub Samuel 👋
-
-## About Me
-I am an education and marketing professional working in international student recruitment, events, and digital campaigns. I use technology and structured systems to build scalable education solutions.
+# 👋 Hi, I’m Etsub Samuel
 
 ## What I Do
-- Study abroad consulting systems
-- Education events & school tours
-- Digital marketing campaigns
-- Lead generation & automation
-- Management and flow strategy
+I design and execute **tech-powered marketing and growth systems** that turn traffic into measurable revenue and leads.
+
+I work at the intersection of:
+- Marketing strategy
+- Technology
+- Data & automation
+
+## Core Skills
+- Performance Marketing (Google Ads, Meta Ads)
+- Funnel & Conversion Optimization
+- CRM & Lead Tracking Systems
+- Marketing Automation
+- Analytics & Reporting
+
+## Tech Stack
+- HTML, CSS, JavaScript
+- Google Tag Manager
+- Google Analytics
+- CRM Tools
+- Git & GitHub
+- APIs & Automation tools
 
 ## Featured Projects
-- AfriLearn Lead Generation System
-- Horizon  trading Data analysis
-- Study Abroad Event Campaigns
-- Scholarship Funnel & CRM Workflow
-
-## Tools & Skills
-- Google Ads
-- Meta Ads
-- Canva
-- CRM systems
-- Content strategy
-- Data Analytics
+- AfriLearn and Horizon Trading Growth System
+- Marketing Analytics Dashboard
+- Automated Lead Qualification Pipeline
 
 ## Contact
 - Email: etsubsam101@gmail.com
